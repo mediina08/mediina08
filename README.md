@@ -1,6 +1,6 @@
-# ¡Hola! 👋
+# ¡Hola! soy Pablo
 
-### 🚀 Sobre mí
+###  Sobre mí
 - 🎓 Estoy estudiando **1º de ASIR** (Administración de Sistemas Informáticos en Red).
 - 🐧 Aprendiendo sobre **Linux, Windows Server, redes y VirtualBox**.
 - 🎮 En mi tiempo libre, me encanta **jugar a videojuegos**.
